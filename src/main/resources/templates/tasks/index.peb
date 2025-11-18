@@ -31,7 +31,7 @@
 <section aria-labelledby="list-heading">
   <h2 id="list-heading">Current tasks ({{ tasks | length }})</h2>
   {# Minor Issue: Image without alt text for Week 7 Lab 2 discovery #}
-  <img src="/static/img/icon.png" width="16" height="16">
+  <img src="/static/img/icon.png" alt="Task Icon" width="16" height="16">
   <ul id="task-list">
     {% for task in tasks %}
       <li id="task-{{ task.id }}">

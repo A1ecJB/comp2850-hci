@@ -39,7 +39,7 @@
 
     /* ARIA live region styling */
     #status:not(:empty) {
-      background: #e3f2fd;
+      background: #32325d;
       border-left: 4px solid #1976d2;
       padding: 1rem;
       margin: 1rem 0;
