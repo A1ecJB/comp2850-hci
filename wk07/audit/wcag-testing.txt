@@ -1,0 +1,25 @@
+Constrast:
+
+Header: #F0F1F3
+Background: #13171F
+Paragraph text: #7B8495
+Textbox: #1C212C
+Input text: #E0E3E7
+Button: #0172AD
+Footer text: #B7C7D0
+Button text: #FFFFFF
+Button keyboard nav highlight: #0C4E73
+
+Header and background (15.88:1): Full pass
+Background and paragraph text (4.76:1): Full pass except: WCAG AAA normal text
+Background and textbox (1.11:1): Full fail
+Textbox and input text (12.51:1): Full pass
+Button and button text (5.23:1): Full pass except: WCAG AAA normal text
+Background and footer text (10.33:1): Full pass
+Button keyboard nav highlight and background (2.01:1): Full fail
+Button keyboard nav highlight and button (1.7:1): Full fail
+
+Keyboard navigation:
+
+Can table through entire page
+Both space and enter work for activation

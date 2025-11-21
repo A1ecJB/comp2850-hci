@@ -1,0 +1,6 @@
+id,title,error source,violation,inclusion risk,evidence,notes,candidate_fix
+1,Image alt text missing,axe-report.md,WCAG 2.1 AA violation,Perceivable,<img> has no alt text,maximum severity,true
+2,Poor contrast,axe-report.md,WCAG 2.0 AA violation,Perceivable,Contrast between foreground and background elements lack sufficient contrast,high severity,true
+3,Non-text contrast,wcag-checklist.md,AA level violation,Distinguishable,Input textbox fails with 1.11:1 ratio, high severity,false
+4,Focus Visible,wcag-checklist.md,AA level partial violation,Navigable,Default outline visible but faint, medium severity,false
+5,On Input,wcag-checklist.md,A level partial violation,Predictable,Enter key causes submission of task, high severity,false
