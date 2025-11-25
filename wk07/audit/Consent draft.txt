@@ -1,0 +1,22 @@
+Copy/paste this into final submission document
+
+
+Introduction: "Thank you for volunteering to participate in this pilot study to assess the HCI of my task management application. The following tests will take no more than 10 minutes for you to complete. Please note this is a test of the application's strengths and weaknesses, so there are no right or wrong answers here."
+
+Rights:
+- I will be recording the following information:
+    - Your time to complete particular tasks
+    - What actions you take during the tests
+    - Any screenshots relevant to the tests, with personal information censored
+    - Any further notes you would like me to add
+- Information I will NOT record includes:
+    - Your name
+    - Your Student ID
+    - Your email address
+    - Any other personally identifiable information (PII)
+    - Any further information you wish to be omitted
+- You can cancel the tests at any time, without a reason
+- You can request to view or have removed the notes made during the tests
+- If you fully understand and have no questions on these rights, do you wish to provide verbal consent for these tests?
+
+Recorded consent timestamp:

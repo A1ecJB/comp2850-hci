@@ -1,0 +1,37 @@
+Evaluation Tasks:
+(copy/paste this content into the md template when ready)
+
+Task 1 (T1): [Working without impairment (Control Test)]
+Scenario: You would like to manage some tasks that you must complete for different modules. Some have been completed, some are new, and others have had their details change.
+Actions: List to me all the tasks currently on the list form highest to lowest priority. Please add a task called "Attend Lab 2" with a priority of 3. Please delete the task of lowest priority, located at the end of the list.
+Success: Pilot lists all tasks in correct order. Pilot submits a form with correct title and priority value. Task at the bottom of the task list is deleted and none others are.
+Target Time:
+Linked to: N/A
+
+Task 2 (T2): [Using a screen reader while unable to see the webpage]
+Scenario: Due to a recent accident, you temporarily blind and unable to see anything on your computer screen yet you would still like to manage some of your tasks for your module to stay up to date.
+Actions:
+Success:
+Target Time:
+Linked to: Job Story
+
+Task 3 (T3): [Working with disabled JavaScript]
+Scenario: Your favorite browser does not support running JavaScript, but you would like to make some changes to your list of tasks.
+Actions:
+Success:
+Target Time:
+Linked to: Job Story 6
+
+Task 4 (T4): [Working in a poor visibility environment]
+Scenario: You are working in an environment with intense lighting surrounding it, but it is essential for you to update your task list as soon as possible.
+Actions:
+Success:
+Target Time:
+Linked to: Job story 4
+
+Task 5 (T5): [Using Keyboard-only navigation]
+Scenario: Your laptop's trackpad has stopped working and you cannot find a mouse to plug in. While waiting for a new mouse, you wish to still update some of your tasks.
+Action:
+Success:
+Target Time:
+Linked to: Job Story 3
